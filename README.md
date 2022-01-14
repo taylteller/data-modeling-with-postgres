@@ -6,6 +6,7 @@ The analytics team at a (fictional) music streaming startup named Sparkify wants
 
 This project therefore tackles the data modeling and ETL pipeline creation process that will transform, with the use of Python, this JSON data into clean Postgres tables.
 
+This project is part of the Udacity Data Engineering nanodegree.
 
 ## Database Schema
 
